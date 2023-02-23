@@ -11,3 +11,5 @@ A place to house some tidbits of learning from the Scrimba course.
 * [JavaScript Map Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 * [React Spread Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals)
 * [Solo Travel Blog Project](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1)
+* [Meme Generator Figma](https://www.figma.com/file/MoLwFPHNHJVrzdFurxHzNV/Meme-Generator?node-id=0%3A1)
+* [SyntheticEvent](https://reactjs.org/docs/events.html#mouse-events)
