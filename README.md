@@ -13,3 +13,6 @@ A place to house some tidbits of learning from the Scrimba course.
 * [Solo Travel Blog Project](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1)
 * [Meme Generator Figma](https://www.figma.com/file/MoLwFPHNHJVrzdFurxHzNV/Meme-Generator?node-id=0%3A1)
 * [SyntheticEvent](https://reactjs.org/docs/events.html#mouse-events)
+* [Complete Guide](https://overreacted.io/a-complete-guide-to-useeffect/)
+* [Hooks Effect](https://reactjs.org/docs/hooks-effect.html)
+* [Forms](https://reactjs.org/docs/forms.html)
